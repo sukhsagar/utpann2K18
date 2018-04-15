@@ -1,0 +1,57 @@
+
+    <!-- Section - Sponsors Start -->
+    <section id="sponsors" class="bg-white">
+        <div class="container">
+            <div class="row no-padding-rl no-padding-top padding-8">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                    <h3 class="font-family-alt font-weight-700 letter-spacing-2 text-uppercase xs-title-small title-medium title-sideline-base-color">Sponsors</h3>
+                    <p class="font-family-alt margin-3 no-margin-bottom no-margin-rl text-gray-dark-2 text-large">Dione Conference wouldn't be possible without our amazing sponsors. Lorem<br>Ipsum is simply dummy text of the printing and typesetting.</p>
+                </div>
+                <!-- //.col-md-8 -->
+            </div>
+            <!-- //.row -->
+            
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-4 text-center">
+                            <img width="200" src="assets/images/sponsor-1.png" alt=""/>
+                        </div>
+                        <!-- //.col-xs-6 -->
+                        
+                        <div class="col-xs-6 col-sm-4 xs-margin-3 xs-no-margin-bottom xs-no-margin-rl text-center">
+                            <img width="200" src="assets/images/sponsor-2.png" alt=""/>
+                        </div>
+                        <!-- //.col-xs-6 -->
+                        
+                        <div class="col-xs-6 col-sm-4 xs-margin-3 xs-no-margin-bottom xs-no-margin-rl text-center">
+                            <img width="200" src="assets/images/sponsor-3.png" alt=""/>
+                        </div>
+                        <!-- //.col-xs-6 -->
+                        
+                        <div class="col-xs-6 col-sm-4 margin-3 no-margin-bottom no-margin-rl text-center">
+                            <img width="200" src="assets/images/sponsor-4.png" alt=""/>
+                        </div>
+                        <!-- //.col-xs-6 -->
+                        
+                        <div class="col-xs-6 col-sm-4 margin-3 no-margin-bottom no-margin-rl text-center">
+                            <img width="200" src="assets/images/sponsor-5.png" alt=""/>
+                        </div>
+                        <!-- //.col-xs-6 -->
+                        
+                        <div class="col-xs-6 col-sm-4 margin-3 no-margin-bottom no-margin-rl text-center">
+                            <img width="200" src="assets/images/sponsor-6.png" alt=""/>
+                        </div>
+                        <!-- //.col-xs-6 -->
+                    </div>
+                    <!-- //.row -->
+                </div>
+                <!-- //.col-md-10 -->
+            </div>
+            <!-- //.row -->
+        </div>
+        <!-- //.container -->
+    </section>
+    <!-- //Section - Sponsors End -->
+    
+    
